@@ -1,4 +1,4 @@
-function Greet(prompt) {
-    let yourName = alert(`Hello: ${prompt}`)
-    console.log(yourName + "Your are a new custommer! :)git ")
+main  = 10
+const func = (main) => {
+    console.log(main)
 }
