@@ -1,3 +1,4 @@
-alert("Hello world")
-prompt("hello world")
-alert("Hello world")
+let r = 5
+for(let i = 0;i<=r;i++){
+    console.log(i)
+}
