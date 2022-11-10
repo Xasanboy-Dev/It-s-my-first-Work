@@ -1,4 +1,4 @@
-let r = 5
-for(let i = 0;i<=r;i++){
-    console.log(i)
+function Greet(prompt) {
+    let yourName = alert(`Hello: ${prompt}`)
+    console.log(yourName + "Your are a new custommer! :)")
 }
